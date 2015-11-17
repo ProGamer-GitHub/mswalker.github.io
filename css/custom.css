@@ -145,15 +145,15 @@ header .header-content .header-content-inner p {
 }
 
 .item-1 {
-	background-image:('../cats1.jpg');
+	background-image:('cats1.jpg');
 	}
 	
 .item-2 {
-	background-image:('../cats2.jpg');
+	background-image:('cats2.jpg');
 	}
 	
 .item-3 {
-	background-image:('../cats3.jpg');
+	background-image:('cats3.jpg');
 	}
 		
 .item-1,
