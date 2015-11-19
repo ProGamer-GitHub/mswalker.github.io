@@ -14,7 +14,7 @@ a {
 
 a:hover,
 a:focus {
-    color: forestgreen;
+    color: yellowgreen;
 }
 
 p {
@@ -353,9 +353,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: limegreen;
+    border-color: purple;
     color: #fff;
-    background-color: limegreen;
+    background-color: purple;
 }
 
 .btn-primary:active,
