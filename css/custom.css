@@ -169,19 +169,19 @@ header .header-content .header-content-inner p {
 	}
 
 .page-footer .contact {
-	padding: 100px 0;
+	padding: 30px 0;
 	background-color: yellowgreen;
 	color: #fff;
 	}
 
 .page-footer .contact p {
-	font-size: 22px;
+	font-size: 30px;
 	font-weight: 300;
 	}
 	
 .content-3 .glyphicon,	
 .page-footer .contact .glyphicon {
-	font-size: 32px;
+	font-size: 30px;
 	font-weight: 700;
 	}
 		
